@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div{
+	background-color:darkgray;
+	height:200px;
+	display:flex;
+	align-items:center;
+}
+.btn{
+	background-color:gray;
+     margin-left:20px;
+	width:63px;
+	height:50px;
+	border:none;
+	border-radius:10px
+}
